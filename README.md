@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: oc-multi-account, abuse, multi, tool, free, ai-tools, automation, opencode, subscription, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+opencode subscription abuse multi tool free ai-tools automation opencode-subs-tool oc-multi-account opencode-sub-abuse windows portable prebuilt x64 free download
+related: opencode, subscription, abuse, multi, tool, free, ai-tools, automation
