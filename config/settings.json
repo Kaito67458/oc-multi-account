@@ -1,0 +1,23 @@
+{
+  "module": "oc-multi-account",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "accounts": {
+      "enabled": true
+    },
+    "trials": {
+      "enabled": true
+    },
+    "keeper": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
